@@ -1,0 +1,179 @@
+
+        body{
+            font-family: latha;
+            color:white;
+            background: linear-gradient( rgba(0,0,0,0.65),rgba(0,0,0,0.65),rgba(0,0,0,0.38),rgba(0,0,0,0)
+            )
+            ,url(gh.jpg)no-repeat;
+            background-size:cover;
+            
+        }
+    
+        .box{ width: 900px;
+        float:right;
+        border:1px solid none;}
+        
+        .box ul li{
+            width: 120px;
+            float:left;
+            margin: 10px auto;
+            text-align: center;
+            text-shadow: 2px 2px 8px #FF0000;
+        }
+        
+        .box ul li a{ text-decoration:rgb(216, 200, 200);
+        color:darkgray;}
+        
+        .box ul li:hover{ background-color:red;}
+        .box ul li a:hover{ color:white;}
+        .box ul li a{ text-decoration:darkred;
+        color:darkgray;}
+        
+        .box ul li:hover{ background-color:red;}
+        .box ul li a:hover{ color:white;}
+        .box{ width: 900px;
+          float:right;
+          border:1px solid none;}
+          
+          .cnt ul li{
+              width: 120px;
+              float:left;
+              margin: 10px auto;
+              text-align: center;
+              text-shadow: 2px 2px 8px #FF0000;
+          }
+          
+          .cnt ul li a{ text-decoration:rgb(216, 200, 200);
+          color:darkgray;}
+          
+          .cnt ul li:hover{ background-color:red;}
+          .cnt ul li a:hover{ color:white;}
+          .cnt ul li a{ text-decoration:darkred;
+          color:darkgray;}
+          
+          .cnt ul li:hover{ background-color:red;}
+          .cnt ul li a:hover{ color:white;}
+          .abt{ width: 900px;
+            float:right;
+            border:1px solid none;}
+            
+            .abt ul li{
+                width: 120px;
+                float:left;
+                margin: 10px auto;
+                text-align: center;
+                text-shadow: 2px 2px 8px #FF0000;
+            }
+            
+            .abt ul li a{ text-decoration:rgb(216, 200, 200);
+            color:darkgray;}
+            
+            .abt ul li:hover{ background-color:aqua;}
+            .abt ul li a:hover{ color:white;}
+            .abt ul li a{ text-decoration:blue;
+            color:darkgray;}
+            
+            .abt ul li:hover{ background-color:red;}
+            .abt ul li a:hover{ color:white;}
+        
+        .wd{
+            width: 400px;
+            height: 534px;
+            background-color: black;
+            opacity: 0.9;
+            padding: 55px;
+        }
+        
+        .wd h1{
+            text-align: center;
+            text-transform: uppercase;
+            font-weight: 100px;
+            text-shadow: 2px 2px 8px #FF0000;
+        }
+        
+        .wd h4{
+            text-align: justify;
+            color:darkgray;
+            font-weight: normal;
+            text-shadow: 2px 2px 8px #FF0000;
+        }
+    
+        .wd h2{
+            text-align: center;
+            text-transform: uppercase;
+            font-weight: normal;
+            margin: 49px auto;
+            text-shadow: 2px 2px 8px #FF0000;
+        }
+        
+        .opt form , input[type="button"]{
+            background-color: black;
+            color:white;
+            padding:10px;
+            margin:-14px auto;
+            padding-left: 50px;
+            padding-right: 50px;
+            text-align: center;
+        }
+        
+        form, input[type="button"];}
+        @media only screen and (max-width: 600px) {
+            body {
+              background-color: lightblue;
+            }
+          }
+          @media only screen and (max-width: 768px) {
+            /* For mobile phones: */
+            [class*="col-"] {
+              width: 100%;
+            }
+          }
+          @media (min-width: 20em), not all and (min-height: 40em) {  
+            @media not all and (pointer: none) { ... }
+            @media screen and ( (min-width: 50em) and (orientation: landscape) ), print and ( not (color) ) { ... }
+          }
+          @media screen and (prefers-color-scheme: light) {
+            
+            
+            .ef{
+              text-align: center;
+              font-weight: normal;
+              margin: 40px auto;
+              text-decoration-color: crimson;
+              color:cornsilk;
+  
+            }
+            .meny{ width: 900px;
+              float:right;
+              border:1px solid none;}
+              
+              .meny ul li{
+                  width: 120px;
+                  float:left;
+                  margin: 10px auto;
+                  text-align: center;
+              }
+              
+              .meny ul li{
+                width: 120px;
+                float:left;
+                margin: 10px auto;
+                text-align: center;
+                text-shadow: 2px 2px 8px #FF0000;
+            }
+          
+            .meny ul li a{ text-decoration:crimson;
+            color:darkgray;}
+            
+            .meny ul li:hover{ background-color:red;}
+            .meny ul li a:hover{ color:crimson;}
+            .meny ul li a{ text-decoration:darkred;
+            color:darkgray;}
+            
+            .meny ul li:hover{ background-color:red;}
+            .meny ul li a:hover{ color:cornsilk;}
+            .ab{
+            float: right;
+            position: relative;
+            }
+            
